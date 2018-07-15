@@ -1,8 +1,5 @@
 body {
   background-color: white; }
-  body .cointainer {
-    padding: 10px;
-    padding-top: 30px; }
   body nav .navbar-toggler {
     outline: none;
     border: none; }
